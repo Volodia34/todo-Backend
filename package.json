@@ -1,0 +1,15 @@
+{
+  "name": "todobackend",
+  "version": "1.0.0",
+  "description": "fullstack app with react and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "react"
+  ],
+  "author": "Volodia Kisil",
+  "license": "ISC"
+}
